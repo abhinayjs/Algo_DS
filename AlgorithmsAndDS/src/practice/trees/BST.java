@@ -1,5 +1,5 @@
 package practice.trees;
-
+//This is a tree
 public class BST {
 
 	class Node {
